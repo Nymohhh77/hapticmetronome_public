@@ -34,3 +34,6 @@ WatchHapticMetronome is not directed at children under the age of 13, and we do 
 We may update this Privacy Policy to reflect new features or legal requirements. Any changes will be posted on this page, and the "Effective Date" will be updated. We encourage you to review this policy periodically.
 
 ## Contact Us
+If you have questions about this Privacy Policy or RightVideoEdit, please contact us at:
+
+- **Email**: supportApps@libero.it
